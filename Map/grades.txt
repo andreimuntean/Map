@@ -1,0 +1,10 @@
+4 dd
+7 acad
+6 ab
+9 fafbf
+1 ee
+1 d
+10 a
+4 ec
+4 acb
+10 a
